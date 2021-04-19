@@ -1,0 +1,22 @@
+{
+  "name": "jinseublog",
+  "version": "0.0.1",
+  "description": "github.com/jinseu/km blog",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinseu/jinseu.github.io.git"
+  },
+  "author": "jinseu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinseu/jinseu.github.io/issues"
+  },
+  "homepage": "https://github.com/jinseu/jinseu.github.io#readme",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
+}
