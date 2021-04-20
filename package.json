@@ -4,7 +4,7 @@
   "description": "github.com/jinseu/km blog",
   "main": "index.js",
   "scripts": {
-    "build": "node src/build.js"
+    "build": "node build/build.js"
   },
   "repository": {
     "type": "git",
